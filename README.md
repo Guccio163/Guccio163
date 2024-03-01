@@ -3,8 +3,8 @@
 I'm Wiktor, Computer Science 6th semester student. I'm mainly focused on Frontend: web and mobile technologies, especially React and React Native, but I'm open for all kind of programming challenges! <br/>
 
 Currently looking for an internship/junior developer job, so if You like what You see, I encourage You to contact me on Linkedin, Facebook or via email!<br/>
-<div>
 
+<div style="display: flex; align-items: center">
   <a href="https://www.linkedin.com/in/wiktor-gut-3bb041241/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
