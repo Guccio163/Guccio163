@@ -1,4 +1,4 @@
-### Hi there 👋 </ br>
+### Hi there 👋 <\ br>
 
 I'm Wiktor, Computer Science 6th semester student. I'm mainly focused on Frontend: web and mobile technologies, especially React and React Native, but I'm open for all kind of programming challenges! </ br>
 
