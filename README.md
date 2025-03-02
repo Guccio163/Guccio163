@@ -1,6 +1,6 @@
 ### Hi there 👋<br/>
 
-I'm Wiktor, Computer Science Bachelor of Engineering and currently Master's degree 8th semester student. I'm mainly focused on mobile technologies, especially React Native, but I'm also experiences in webdev (mainly React). Nevertheless I'm open for all kind of programming challenges! <br/>
+I'm Wiktor, Computer Science Bachelor of Engineering and currently Master's degree 8th semester student. I'm mainly focused on mobile technologies, especially React Native, but I'm also experienced in webdev (mainly React). Nevertheless I'm open for all kind of programming challenges! <br/>
 
 Currently happily working over React Native apps development in Software Mansion; If you'd like to contact me, my DMs on Linkedin, Facebook (Wiktor Gut) or via email (wiktorgut.work@gmail.com) are always open!<br/>
 
